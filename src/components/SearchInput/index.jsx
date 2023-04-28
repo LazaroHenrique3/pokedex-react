@@ -21,7 +21,7 @@ const SearchInput = () => {
 
     setIsLoading(true)
 
-    const response = axios.get(`https://pokeapi.co/api/v2/pokemon/${idOrName}/`)
+    const response = axios.get(`https://pokeapi.co/api/v2/pokemon/${idOrName.toLowerCase()}/`)
                     .then((res) => {
                       setPokemon(res)
                       setIsSearch(true)

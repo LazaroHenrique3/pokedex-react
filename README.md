@@ -36,4 +36,4 @@ Projeto React consumindo API PokeAPI
 
 ## ✒️ Autor
 
-* **Lázaro Henrique** 
+* **Lázaro Henrique**  

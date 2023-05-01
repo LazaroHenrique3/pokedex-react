@@ -1,8 +1,8 @@
 # Pokedex
 
-Projeto React consumindo API PokeAPI
+Projeto React consumindo API PokeAPI.
 
-## 👀 Deploy: <a href="https://pokedex-react-peach.vercel.app/">Pokedex</a>
+## 👀 Ver deploy! 👉 <a href="https://pokedex-react-peach.vercel.app/">Pokedex</a>
 
 ## 🖼 Screenshots do projeto
 
